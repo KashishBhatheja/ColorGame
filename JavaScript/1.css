@@ -1,0 +1,14 @@
+.body{
+	background-color: #232323;
+}
+
+.container{
+	width: 60%;
+	margin: 0 auto;
+}
+
+.square{
+	width: 30%
+	color: purple;
+	float: left;
+}
